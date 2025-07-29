@@ -3,5 +3,5 @@ Cafe Finder – Flask Web App A simple Flask web app that lists cafes with WiFi 
 
 
 
-Uploading cafe.mp4…
+https://github.com/user-attachments/assets/173b00d1-a446-4c67-aaa4-6894875196b4
 
