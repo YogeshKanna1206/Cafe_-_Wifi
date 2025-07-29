@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cafe Zoro's Brew",
+    "desc": "Lost on the way here, but still managed to serve strong coffee. Wi-Fi stronger than Zoro\u00e2\u20ac\u2122s sense of direction.",
+    "image": "zoro.avif"
+  },
+  {
+    "id": 2,
+    "name": "Kono Cafe Da!",
+    "desc": "Sit like a Joestar and sip your espresso with honor. Each cup yells 'MUDA MUDA' as you drink it.",
+    "image": "kono_cafe.webp"
+  },
+  {
+    "id": 3,
+    "name": "Sharingan Sips",
+    "desc": "Every espresso shot unlocks a new ability. Free Wi-Fi, but you must stare deeply into the barista's eyes to connect.",
+    "image": "sharingan_sips.webp"
+  },
+  {
+    "id": 4,
+    "name": "Attack on Caffeine",
+    "desc": "Walls may fall, but your productivity won\u00e2\u20ac\u2122t. Titan-sized mugs and blazing-fast Wi-Fi.",
+    "image": "attack_cafe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cafe Senpai",
+    "desc": "They noticed you... and your terrible sleep schedule. Cozy, with anime OSTs and bubble tea stronger than your GPA.",
+    "image": "senpai_cafe.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Naruto Noms & Net",
+    "desc": "Believe it! Ramen + Wi-Fi combo powered by chakra. Plug points at every table (except Sakura\u00e2\u20ac\u2122s).",
+    "image": "naruto_net.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Death Note Espresso",
+    "desc": "Write code like Light writes names. Free Wi-Fi, but suspiciously dark corners. Your name may be written if you hog the power outlets.",
+    "image": "death_espresso.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Studio Chai-bli",
+    "desc": "Magical vibes, Ghibli soundtrack, and tea that whispers your destiny. Totoro guards the Wi-Fi router.",
+    "image": "studio_chaibli.jpg"
+  },
+  {
+    "id": 9,
+    "name": "One Punch Brew",
+    "desc": "So strong, one cup is enough. Wi-Fi so fast it punches lag out of existence. No capes. Just hoodies.",
+    "image": "onepunchbrew.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Luffy Cafe",
+    "desc": "\"Unlimited snacks, stretchy chairs, and nakama vibes. Internet faster than Gear 5.",
+    "image": "luffylounge.jpg"
+  }
+]

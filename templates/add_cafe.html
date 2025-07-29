@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="add-cafe-form">
+  <h2>Add a New Cafe</h2>
+  <form action="{{ url_for('add_cafe') }}" method="POST" enctype="multipart/form-data">
+    <input type="text" name="name" placeholder="Cafe Name" required>
+    <textarea name="desc" placeholder="Cafe Description" rows="4" required></textarea>
+
+    <div class="drop-box" id="drop-box">
+      <p>Drag & Drop an Image or Click to Upload</p>
+      <input type="file" name="image" id="image-input" accept="image/*" required>
+    </div>
+
+    <button type="submit">Add Cafe</button>
+  </form>
+</div>
+{% endblock %}

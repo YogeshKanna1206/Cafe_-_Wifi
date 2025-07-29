@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="cafe-detail">
+  <div class="cafe-image">
+    <img src="{{ url_for('static', filename='images/' + cafe.image) }}" alt="{{ cafe.name }}">
+  </div>
+  <div class="cafe-info">
+    <h1>{{ cafe.name }}</h1>
+    <p>{{ cafe.desc }}</p>
+    <a href="/" class="back-link">← Back to Home</a>
+  </div>
+</div>
+{% endblock %}
+

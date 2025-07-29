@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Base</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='base.css') }}">
+  </head>
+
+  <body>
+    <nav class="navbar">
+      <div class="logo">Cafe&Wifi</div>
+      <ul class="nav_links">
+        <li><a href="{{ url_for('home') }}">home</a></li>
+        <li><a href="{{ url_for('add_cafe') }}">add cafe</a></li>
+      </ul>
+    </nav>
+
+    <div class="container mt-4">
+      {% block content %}{% endblock %}
+    </div>
+
+    <footer class="text-center text-muted py-3">
+      CAFE & WIFI
+    </footer>
+  </body>
+</html>
